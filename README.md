@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @stelly1
 - 👀 I’m interested in blockchain development, specifically dApps Ethereum and L2 solutions
-- 🌱 My journey into bc tech has led me through nearly all Scaffold.eth, CryptoZombies, & a Udacity BC Dev nano degree program
+- 🌱 My journey into bc tech has led me through nearly all Scaffold.eth and CryptoZombies content, & a Udacity BC Dev nano degree program
